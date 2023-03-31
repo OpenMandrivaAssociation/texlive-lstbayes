@@ -1,6 +1,6 @@
 Name:		texlive-lstbayes
 Version:	48160
-Release:	1
+Release:	2
 Summary:	Listings language driver for Bayesian modeling languages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lstbayes
