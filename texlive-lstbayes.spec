@@ -3,7 +3,7 @@ Version:	48160
 Release:	2
 Summary:	Listings language driver for Bayesian modeling languages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lstbayes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lstbayes
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lstbayes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lstbayes.doc.r%{version}.tar.xz
